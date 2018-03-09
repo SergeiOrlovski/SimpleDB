@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Tasks]
+(
+	[Id] INT NOT NULL IDENTITY,
+	[TaskName] NVARCHAR(50) NOT NULL,
+	[Description] NVARCHAR(100) NOT NULL,
+	[Start] DATETIME2(0) NOT NULL,
+	[DeadLine] DATETIME2(0) NOT NULL,
+	CONSTRAINT [PK_Task_Id] PRIMARY KEY ([Id])
+)

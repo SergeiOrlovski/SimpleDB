@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Users]
+(
+	[Id] INT NOT NULL IDENTITY,
+	[Name] NVARCHAR(30) NOT NULL,
+	[Age] INT NOT NULL DEFAULT  18,
+	[Email] NVARCHAR(30),
+	CONSTRAINT [PK_User_Id] PRIMARY KEY ([Id])
+
+)

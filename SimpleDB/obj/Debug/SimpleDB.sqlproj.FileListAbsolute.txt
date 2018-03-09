@@ -1,0 +1,10 @@
+C:\Users\personal\Source\Repos\SimpleDB\SimpleDB\bin\Debug\SimpleDB.dacpac
+C:\Users\personal\Source\Repos\SimpleDB\SimpleDB\bin\Debug\SimpleDB.dll
+C:\Users\personal\Source\Repos\SimpleDB\SimpleDB\bin\Debug\SimpleDB.pdb
+C:\Users\personal\Source\Repos\SimpleDB\SimpleDB\obj\Debug\SimpleDB.dll
+C:\Users\personal\Source\Repos\SimpleDB\SimpleDB\obj\Debug\SimpleDB.pdb
+C:\Users\personal\Documents\Visual Studio 2017\Projects\SimpleDB\SimpleDB.git\SimpleDB\bin\Debug\SimpleDB.dacpac
+C:\Users\personal\Documents\Visual Studio 2017\Projects\SimpleDB\SimpleDB.git\SimpleDB\bin\Debug\SimpleDB.dll
+C:\Users\personal\Documents\Visual Studio 2017\Projects\SimpleDB\SimpleDB.git\SimpleDB\bin\Debug\SimpleDB.pdb
+C:\Users\personal\Documents\Visual Studio 2017\Projects\SimpleDB\SimpleDB.git\SimpleDB\obj\Debug\SimpleDB.dll
+C:\Users\personal\Documents\Visual Studio 2017\Projects\SimpleDB\SimpleDB.git\SimpleDB\obj\Debug\SimpleDB.pdb
